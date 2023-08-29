@@ -8,7 +8,7 @@
   
   ### :woman_technologist: About Me :
   - 🔭 I am a frontend developer with previous experience in insurance and appraisal.
-  - 🌱 I’m currently learning Node.js at The Rolling Scopes School
+  - 🌱 I’m currently learning Next.js and Tailwind CSS
   - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/katsiaryna-andrabaila-94669b23a/)
 
 ---
