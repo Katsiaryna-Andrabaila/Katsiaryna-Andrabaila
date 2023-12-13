@@ -8,7 +8,7 @@
   
   ### :woman_technologist: About Me :
   - 🔭 I am a frontend developer with previous experience in insurance and appraisal.
-  - 🌱 I’m currently learning Next.js and Tailwind CSS
+  - 🌱 I’m currently learning Polish to have B1 and working on a cool pet-project with great command.
   - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/katsiaryna-andrabaila-94669b23a/)
 
 ---
