@@ -8,7 +8,7 @@
   </h1>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=700&center=true&lines=Your+life+is+in+your+hands+and,+furthermore,+in+your+head)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=800&center=true&lines=Your+life+is+in+your+hands+and,+furthermore,+in+your+head)](https://git.io/typing-svg)
   
   ### :woman_technologist: About Me :
   - 🔭 I am a frontend developer with previous experience in insurance and appraisal.
