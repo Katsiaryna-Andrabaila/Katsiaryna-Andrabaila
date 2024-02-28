@@ -1,10 +1,14 @@
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Katsiaryna-Andrabaila&style=flat-square&color=blue" alt=""/>
+
+  ![](https://komarev.com/ghpvc/?username=Katsiaryna-Andrabaila&abbreviated=true)
+
   <h1>
     Hey there! I'm Kate
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&width=700&center=true&lines=Your+life+is+in+your+hands+and,+furthermore,+in+your+head)](https://git.io/typing-svg)
   
   ### :woman_technologist: About Me :
   - 🔭 I am a frontend developer with previous experience in insurance and appraisal.
@@ -14,7 +18,7 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div>
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -40,7 +44,18 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Katsiaryna-Andrabaila)](https://git.io/streak-stats)
+<div align="center">
+  
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Katsiaryna-Andrabaila)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katsiaryna-Andrabaila&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katsiaryna-Andrabaila&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+
+---
+
+<div align="center">
+  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=catppuccin_macchiato)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
