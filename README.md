@@ -44,12 +44,9 @@
 ---
 
 ### :fire: My Stats :
-<div align="center">
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Katsiaryna-Andrabaila)](https://git.io/streak-stats)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Katsiaryna-Andrabaila&layout=compact&theme=light)](https://github.com/anuraghazra/github-readme-stats)
-
+<div align="center" style="display: flex; align-items: top;">
+  <img src='http://github-readme-streak-stats.herokuapp.com?user=Katsiaryna-Andrabaila'/>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Katsiaryna-Andrabaila&layout=compact&theme=light'/>
 </div>
 
 ---
