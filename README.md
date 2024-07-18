@@ -16,7 +16,7 @@
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-<div align="center">
+<div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -37,15 +37,8 @@
 ---
 
 ### :fire: My Stats :
-<div align="center" style="display: flex; align-items: top;">
+<div align="left" style="display: flex; align-items: top;">
   <img src='http://github-readme-streak-stats.herokuapp.com?user=Katsiaryna-Andrabaila'/>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Katsiaryna-Andrabaila&layout=compact&theme=light'/>
 </div>
 
----
-
-<div align="center">
-  
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?theme=catppuccin_macchiato)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
