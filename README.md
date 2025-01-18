@@ -10,7 +10,7 @@
   
   ### :woman_technologist: About Me :
   - 🔭 I am a frontend developer with previous experience in insurance and appraisal.
-  - 🌱 I’m currently learning German.
+  - 🌱 I’m currently learning Spanish.
   - 📫 My portfolio? Sure! [Just click here!](https://katsiarynaandrabaila.netlify.app/)
 
 ---
